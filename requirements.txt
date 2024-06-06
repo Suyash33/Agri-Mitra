@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+pandas
+numpy
+scikit-learn
+nltk
+keras
+tensorflow
+ipython
